@@ -40,4 +40,4 @@
 5. Запустите сервер: ```python manage.py runserver```, и приступайте к работе с API!
 
 ## Как работать с API
-Для работы с API подходbn [Postman](https://www.postman.com).
+Для работы с API подходит [Postman](https://www.postman.com).
